@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057276878548",
+    "project_id": "shoopy-9f38f",
+    "storage_bucket": "shoopy-9f38f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057276878548:android:400f3f20e8e85b193b2541",
+        "android_client_info": {
+          "package_name": "com.example.shoopy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFh7eZYrZ-7EM1bidZrLfmRqyAOYdvdCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
