@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:shoopy/addproductscreen.dart';
 import 'package:shoopy/homescreen.dart';
 import 'package:shoopy/initscreen.dart';
+import 'package:shoopy/loginscreen.dart';
+import 'package:shoopy/registerscreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +27,8 @@ class MyApp extends StatelessWidget {
         "init": (context) => InitScreen(),
         "home": (context) => HomeScreen(),
         "add-product": (context) => AddProductScreen(),
+        "register": (context) => RegisterScreen(),
+        "login": (context) => LoginScreen(),
       },
     );
   }
